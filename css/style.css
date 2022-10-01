@@ -1,0 +1,25 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.container1 {
+    display: flex;
+}
+
+#demo {
+    width: 25%;
+    padding: 40px;
+}
+
+img {
+    width: 100%;
+}
+
+.op-1 {
+    opacity: 0.5;
+}
+
+.op-2 {
+    opacity: 1;
+}
